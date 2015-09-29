@@ -1,2 +1,4 @@
 # myPage
 My example page
+
+This page weas created for the [screencast Introduction to GitHub](https://github.com/curran/screencasts/tree/gh-pages/introToGitHub)
