@@ -1,0 +1,49 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 21, 2015, 9:18:10 PM
+    Author     : Mike Bejaniance
+*/
+
+body{background: rgba(0,0,255,.7);}/*Makes the background blue with 70% opacity*/
+
+a {/*Styles all links color */
+    color: greenyellow;
+}
+
+html{ /* Code for the background image of the page */
+  background: url("https://upload.wikimedia.org/wikipedia/commons/7/75/Zen_Garden,_Nanzen-ji_Temple_(7005735830)_(3).jpg") no-repeat center center fixed; 
+  
+}
+
+h1{/* Style for h1 font and color*/
+    font-family: "Times New Roman", Georgia, Serif;
+    color: greenyellow;
+    
+}
+h2{ /* Style for h2 margin font and color*/
+    color: greenyellow;
+    margin-left: 200pt;
+    font-family: "Times New Roman", Georgia, Serif;
+    
+}
+h3{ /* Style for h3 margin font and color*/
+    
+    margin-left: 200pt;
+    color: greenyellow;
+    
+}
+
+p { /* Style for p margin font and color*/
+    color: yellowgreen;
+    font-weight: 900;
+    font-family: "Times New Roman", Georgia, Serif;
+    
+    margin-right: 200pt;
+    margin-left: 200pt;
+
+}
+    
